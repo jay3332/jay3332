@@ -1,8 +1,10 @@
 # hi 👋
 ### i'm jay3332
-#### i code and stuff
-###### mostly in python
+#### i code and stuff, mostly in python.
 but clearly my public repositories don't show that
+
+### Oh yeah, 
+i created **[js-cord](https://github.com/jay3332/js-cord)**, if you even care at all
 
 <span float="center" height=200>
   <h2>Github Stats</h2>
