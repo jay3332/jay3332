@@ -12,7 +12,9 @@ Moderation/utility bot for Discord
 Economy bot for Discord
 #### [js-cord](https://github.com/jay3332/js-cord)
 Wrapper around the Discord API 
-#### [tio.js](https://github.com/jay3332/tio.js)
+#### [js-array](https://github.com/jay3332/js-array)
+Brings the functionality of a Javascript array into Python.
+#### [tio.js](https://github.com/jay3332/tio.js) **\[OUTDATED\]**
 Wrapper around the [TryItOnline](https://tio.run) API
 
 </span>
