@@ -1,12 +1,19 @@
 <span text-align="center">
 
-# hi 👋
-### i'm jay3332
-#### i code and stuff, mostly in python.
-but clearly my public repositories don't show that
-
-### Oh yeah, 
-i created **[js-cord](https://github.com/jay3332/js-cord)**, if you even care at all
+# jay3332
+### Who am I?
+You don't need to know this
+### Which languages do I use?
+Look at my public repos
+## Here are some projects I'm working on
+#### Lambda 
+Moderation/utility bot for Discord
+#### ShrimpMaster
+Economy bot for Discord
+#### [js-cord](https://github.com/jay3332/js-cord)
+Wrapper around the Discord API 
+#### [tio.js](https://github.com/jay3332/tio.js)
+Wrapper around the [TryItOnline](https://tio.run) API
 
 </span>
 
