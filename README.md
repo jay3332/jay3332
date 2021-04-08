@@ -2,14 +2,14 @@
 
 # jay3332
 ### Languages/Frameworks 
-- Python
-- Java (minimal)
+- Python (proficient)
 - C# (minimal)
 - C++ (minimal, learning)
 - Javascript
   - node.js
   - Typescript (minimal)
   - Front-end
+- Java
 - HTML 
 - CSS
 - SQL
