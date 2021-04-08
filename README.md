@@ -1,10 +1,18 @@
 <span text-align="center">
 
 # jay3332
-### Who am I?
-You don't need to know this
-### Which languages do I use?
-Look at my public repos
+### Languages/Frameworks 
+- Python
+- Java (minimal)
+- C# (minimal)
+- C++ (minimal, learning)
+- Javascript
+  - node.js
+  - Typescript (minimal)
+  - Front-end
+- HTML 
+- CSS
+- SQL
 ## Here are some projects I'm working on
 #### Lambda 
 Moderation/utility bot for Discord
