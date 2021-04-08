@@ -20,6 +20,8 @@ Moderation/utility bot for Discord
 Economy bot for Discord
 #### [js-cord](https://github.com/jay3332/js-cord)
 Wrapper around the Discord API 
+#### [PyMacro](https://github.com/jay3332/PyMacro)
+A package that allows you to write macros inside py Python.
 #### [js-array](https://github.com/jay3332/js-array)
 Brings the functionality of a Javascript array into Python.
 #### [tio.js](https://github.com/jay3332/tio.js) **\[OUTDATED\]**
