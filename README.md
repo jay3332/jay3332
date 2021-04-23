@@ -22,6 +22,8 @@ Moderation/utility bot for Discord
 Economy bot for Discord
 #### [js-cord](https://github.com/jay3332/js-cord)
 Wrapper around the Discord API 
+#### [tag-formatter](https://github.com/jay3332/tag-formatter)
+Tag-formatter is a Python Package designed to format strings that based on user-input.  
 #### [PyMacro](https://github.com/jay3332/PyMacro)
 A package that allows you to write macros inside py Python.
 #### [js-array](https://github.com/jay3332/js-array)
