@@ -18,12 +18,14 @@ Planning on learning Rust later on.
 ## Here are some projects I'm working on
 #### Lambda 
 Moderation/utility bot for Discord
-#### ShrimpMaster
+#### [ShrimpMaster](https://github.com/jay3332/ShrimpMaster)
 Economy bot for Discord
 #### [js-cord](https://github.com/jay3332/js-cord)
 Wrapper around the Discord API 
 #### [tag-formatter](https://github.com/jay3332/tag-formatter)
-Tag-formatter is a Python Package designed to format strings that based on user-input.  
+Tag-formatter is a Python Package designed to format strings that based on user-input.
+#### [pilmoji](https://github.com/jay3332/pilmoji)
+Pilmoji is a fast and reliable emoji renderer for PIL.
 #### [PyMacro](https://github.com/jay3332/PyMacro)
 A package that allows you to write macros inside py Python.
 #### [js-array](https://github.com/jay3332/js-array)
