@@ -1,14 +1,16 @@
 <span text-align="center">
+  <h2><b>jay3332</b></h2>
+</span>
 
-# jay3332
 ### Languages/Frameworks 
-- Python (proficient)
+- Python 
 - C# (minimal)
-- C++ (minimal, learning)
+- C++ 
 - Javascript
   - node.js
-  - Typescript (minimal)
+  - Typescript 
   - Front-end
+- Rust (minimal)
 - Java
 - HTML 
 - CSS
@@ -18,8 +20,8 @@ Planning on learning Rust later on.
 ## Here are some projects I'm working on
 #### Lambda 
 Moderation/utility bot for Discord
-#### [ShrimpMaster](https://github.com/jay3332/ShrimpMaster)
-Economy bot for Discord
+#### [obsidian.py](https://github.com/jay3332/obsidian.py)
+Wrapper around Obsidian's REST and Websocket API.
 #### [js-cord](https://github.com/jay3332/js-cord)
 Wrapper around the Discord API 
 #### [tag-formatter](https://github.com/jay3332/tag-formatter)
