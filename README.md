@@ -1,15 +1,15 @@
-<span text-align="center">
-  <h2><b>jay3332</b></h2>
+<span>
+  <h2 text-align="center"><b>jay3332</b></h2>
 </span>
 
 ### Languages/Frameworks 
-- Python 
-- C# (minimal)
-- C++ 
+- Python (Fluent)
+- C++ / C
 - Javascript
   - node.js
+  - React.js
   - Typescript 
-  - Front-end
+  - Front-end (in which i hate)
 - Rust (minimal)
 - Java
 - HTML 
