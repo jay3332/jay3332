@@ -10,7 +10,7 @@
   - React.js
   - Typescript 
   - Front-end (in which i hate)
-- Rust (minimal)
+- Rust 
 - Java
 - HTML 
 - CSS
