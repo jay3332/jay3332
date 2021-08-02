@@ -16,7 +16,6 @@
 - CSS
 - SQL  
 
-Planning on learning Rust later on.
 ## Here are some projects I'm working on
 #### Lambda 
 Moderation/utility bot for Discord
