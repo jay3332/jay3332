@@ -28,7 +28,7 @@ Wrapper around Obsidian's REST and Websocket API.
 #### [pilmoji](https://github.com/jay3332/pilmoji)*
 Pilmoji is a fast and reliable emoji renderer for PIL.
 
-* will be rewritten
+\* will be rewritten
 
 ## Visitors
 ![hmm](https://profile-counter.glitch.me/jay3332/count.svg)
