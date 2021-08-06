@@ -43,4 +43,3 @@ Pilmoji is a fast and reliable emoji renderer for PIL.
 </span>
 
 ---
-<img src="https://cdn.discordapp.com/emojis/596576798351949847.png?v=1" alt="rooThink" height=600 />
