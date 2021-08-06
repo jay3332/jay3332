@@ -43,3 +43,5 @@ Pilmoji is a fast and reliable emoji renderer for PIL.
 </span>
 
 ---
+
+![Metrics](https://github.com/jay3332/jay3332/blob/main/github-metrics.svg)
