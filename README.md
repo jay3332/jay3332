@@ -2,19 +2,17 @@
   <h2 text-align="center"><b>jay3332</b></h2>
 </span>
 
-### Languages/Frameworks 
+### Core Languages/Frameworks 
 - Python (Fluent)
-- Rust 
-- Javascript
-  - node.js
-  - React.js
-  - Typescript 
-  - Front-end (in which i hate)
+- JavaScript (TypeScript)
+- Rust
+- Front-end
+  - React.js (JSX/TSX)
+  - HTML
+  - CSS
 - C++ / C
 - Java
-- HTML 
-- CSS
-- SQL  
+- SQL (Does this count?)
 
 ## Here are some projects I'm working on
 #### Lambda 
