@@ -14,6 +14,7 @@
 - Java
 - SQL (Does this count?)
 
+<!--
 ## Here are some projects I'm working on
 #### Lambda 
 Moderation/utility bot for Discord
@@ -27,6 +28,7 @@ Wrapper around Obsidian's REST and Websocket API.
 Pilmoji is a fast and reliable emoji renderer for PIL.
 
 \* will be rewritten
+-->
 
 ## Visitors
 ![hmm](https://profile-counter.glitch.me/jay3332/count.svg)
