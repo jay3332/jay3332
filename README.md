@@ -4,12 +4,18 @@
 
 ### Core Languages/Frameworks 
 - Python (Fluent)
-- JavaScript (TypeScript)
+- JavaScript/TypeScript 
+  - Vanilla JS
+  - node.js
+  - TypeScript
+  - React.js
+    - React.js w/ Typescript: TSX
 - Rust
 - Front-end
   - React.js (JSX/TSX)
   - HTML
   - CSS
+  - SCSS
 - C++ / C
 - Java
 - SQL (Does this count?)
