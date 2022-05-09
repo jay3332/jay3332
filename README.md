@@ -4,13 +4,13 @@
 
 ### Core Languages/Frameworks 
 - Python (Fluent)
-- JavaScript/TypeScript 
+- Rust
+- JavaScript/TypeScript
   - Vanilla JS
   - node.js
   - TypeScript
   - React.js
     - React.js w/ Typescript: TSX
-- Rust
 - Front-end
   - React.js (JSX/TSX)
   - HTML
@@ -19,6 +19,8 @@
 - C++ / C
 - Java
 - SQL (Does this count?)
+
+**Currently working on:** [Terbium](https://github.com/TerbiumLang/Terbium) - The performant yet elegant and feature-packed programming language. Made with Rust.
 
 <!--
 ## Here are some projects I'm working on
