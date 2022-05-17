@@ -1,55 +1,55 @@
-<span>
-  <h2 text-align="center"><b>jay3332</b></h2>
-</span>
+<h1 style='display: flex; align-items: center; justify-items: center;'>
+	 <img 
+	 src='https://cdn.lambdabot.cf/uploads/jay3332_avatar2.png'
+	 height=58>
+	 <span>jay3332</span>
+</h1>
 
-### Core Languages/Frameworks 
-- Python (Fluent)
+## Skills
+
+### Fluent in:
+- Python
 - Rust
-- JavaScript/TypeScript
-  - Vanilla JS
-  - node.js
-  - TypeScript
-  - React.js
-    - React.js w/ Typescript: TSX
-- Front-end
-  - React.js (JSX/TSX)
-  - HTML
-  - CSS
-  - SCSS
-- C++ / C
+- Javascript/TypeScript
+
+### Has had experience with:
 - Java
-- SQL (Does this count?)
+- C/C++
+- C#
 
-**Currently working on:** [Terbium](https://github.com/TerbiumLang/Terbium) - The performant yet elegant and feature-packed programming language. Made with Rust.
+### Other Skills:
+- SQL
+- Web Development:
+	- HTML
+	- CSS, Sass
+	- React.js
 
-<!--
-## Here are some projects I'm working on
-#### Lambda 
-Moderation/utility bot for Discord
-#### [js-cord](https://github.com/jay3332/js-cord)
-Wrapper around the Discord API 
-#### [tag-formatter](https://github.com/jay3332/tag-formatter)*
-Tag-formatter is a Python Package designed to format strings that based on user-input. 
-#### [obsidian.py](https://github.com/jay3332/obsidian.py)*
-Wrapper around Obsidian's REST and Websocket API.
-#### [pilmoji](https://github.com/jay3332/pilmoji)*
-Pilmoji is a fast and reliable emoji renderer for PIL.
+## Currently working on:
+*Only open-source projects listed*
 
-\* will be rewritten
--->
+- **[Terbium](https://github.com/TerbiumLang/Terbium)**: The performant yet elegant and feature-packed programming language. Made with Rust.
+- **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 
-## Visitors
-![hmm](https://profile-counter.glitch.me/jay3332/count.svg)
+## Quick Links:
+- [Repositories](https://github.com/jay3332?tab=repositories)
+- [Website/Portfolio](https://jay3332.pages.dev) (incomplete)
+- [Lambda Discord Bot](https://lambdabot.cf)
+
+## Stats:
+
+### Visitors
+![Count](https://profile-counter.glitch.me/jay3332/count.svg)
 
 </span>
 
 <span float="center" height=200>
-  <h2>Github Stats</h2>
+  <h3>Github Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=jay3332&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
-  <h2>Most used languages</h2>
+  <h3>Most used languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay3332&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
 </span>
 
 ---
 
+### Auto-generated Metrics:
 ![Metrics](https://github.com/jay3332/jay3332/blob/main/github-metrics.svg)
