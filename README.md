@@ -1,9 +1,10 @@
-<h1 style='display: flex; align-items: center; justify-items: center;'>
-	 <img 
-	 src='https://cdn.lambdabot.cf/uploads/jay3332_avatar2.png'
-	 height=58>
-	 <span>jay3332</span>
+<div align='center'><img
+	src='https://cdn.lambdabot.cf/uploads/jay3332_avatar2.png' height=100>
+<h1 align='center'>
+	 jay3332
 </h1>
+<p><sup>Probably not</sup></p>
+</div>
 
 ## Skills
 
