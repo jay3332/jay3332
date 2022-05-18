@@ -2,7 +2,8 @@
 	src='https://cdn.lambdabot.cf/uploads/jay3332_avatar2.png' height=100>
 <h1 align='center'>
 	 <div>jay3332</div>
-	<p><sup>Probably not</sup></p>
+    <br/>
+	<p><sup><sup><sup>Probably not</sup></sup></sup></p>
 </h1>
 </div>
 ## Skills
