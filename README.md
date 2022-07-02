@@ -3,7 +3,7 @@
 <h1 align='center'>
 	 jay3332
 </h1>
-<p><sup>Probably not</sup></p>
+<p><sup>Indeed the GitHub profile of jay3332</sup></p>
 </div>
 
 ## Skills
@@ -16,7 +16,7 @@
 ### Has had experience with:
 - Java
 - C/C++
-- C#
+- C# (Unity)
 
 ### Other Skills:
 - SQL
@@ -28,6 +28,7 @@
 ## Currently working on:
 *Only open-source projects listed*
 
+- **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: The performant yet elegant and feature-packed programming language. Made with Rust.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 
@@ -35,6 +36,9 @@
 - [Repositories](https://github.com/jay3332?tab=repositories)
 - [Website/Portfolio](https://jay3332.pages.dev) (incomplete)
 - [Lambda Discord Bot](https://lambdabot.cf)
+
+## Contacts:
+- Discord: jay3332#4479 (User ID: 414556245178056706)
 
 ## Stats:
 
