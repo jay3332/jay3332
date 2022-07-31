@@ -29,7 +29,7 @@
 *Only open-source projects listed*
 
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
-- **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy iamge processing.
+- **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: The performant yet elegant and feature-packed programming language. Made with Rust.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 
