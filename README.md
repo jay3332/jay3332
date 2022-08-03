@@ -39,7 +39,7 @@
 - [Lambda Discord Bot](https://lambdabot.cf)
 
 ## Contacts:
-- Discord: jay3332#3332 (User ID: 414556245178056706)
+- Discord: jay3332#3582 (User ID: 414556245178056706)
 
 ## Stats:
 
