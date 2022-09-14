@@ -14,6 +14,7 @@
 - Javascript/TypeScript
 
 ### Has had experience with:
+- Kotlin
 - Java
 - C/C++
 - C# (Unity)
