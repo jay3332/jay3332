@@ -27,12 +27,19 @@
 	- React.js
 
 ## Currently working on:
-*Only open-source projects listed*
 
+### Open source projects:
+
+- **[FerrisChat](https://github.com/FerrisChat)**: A fast and lightweight platform for communities.
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: The performant yet elegant and feature-packed programming language. Made with Rust.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
+
+### I'm also working on:
+
+- **FTC PowerPlay**: Code that runs the robot for my private FTC team for the 2022-2023 FTC season, PowerPlay. Written in Kotlin.
+- **SpeechBot**: Experiemental text-to-speech transcription bot for Discord.
 
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
@@ -40,7 +47,7 @@
 - [Lambda Discord Bot](https://lambdabot.cf)
 
 ## Contacts:
-- Discord: jay3332#3332 (User ID: 414556245178056706)
+- Discord: jay3332#8131 (User ID: 414556245178056706)
 
 ## Stats:
 
