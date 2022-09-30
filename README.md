@@ -30,6 +30,7 @@
 
 ### Open source projects:
 
+- **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 - **[FerrisChat](https://github.com/FerrisChat)**: A fast and lightweight platform for communities.
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
