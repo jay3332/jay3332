@@ -8,18 +8,18 @@
 
 ## Skills
 
-### Fluent in:
+### Commonly used:
 - Python
 - Rust
 - Javascript/TypeScript
 
-### Has had experience with:
+### I also work with:
 - Kotlin
 - Java
 - C/C++
 - C# (Unity)
 
-### Other Skills:
+### Other skills:
 - SQL
 - Web Development:
 	- HTML
@@ -30,12 +30,17 @@
 
 ### Open source projects:
 
+- **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
+- **[aoc-2022](https://github.com/jay3332/aoc-2022)**: Advent of Code 2022 solutions in Rust
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
+
+#### Unprioritized, but still maintained:
 - **[FerrisChat](https://github.com/FerrisChat)**: A fast and lightweight platform for communities.
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
-- **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
-- **[Terbium](https://github.com/TerbiumLang/Terbium)**: The performant yet elegant and feature-packed programming language. Made with Rust.
+- **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
+- **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
+
 
 ### I'm also working on:
 
