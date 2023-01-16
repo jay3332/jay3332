@@ -30,7 +30,7 @@
 
 ### Open source projects:
 
-- **[Adapt](https://github.com/jay3332/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
+- **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 
 #### Unprioritized, but still maintained:
