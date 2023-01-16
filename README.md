@@ -30,17 +30,16 @@
 
 ### Open source projects:
 
+- **[Adapt](https://github.com/jay3332/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
-- **[aoc-2022](https://github.com/jay3332/aoc-2022)**: Advent of Code 2022 solutions in Rust
-- **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 
 #### Unprioritized, but still maintained:
-- **[FerrisChat](https://github.com/FerrisChat)**: A fast and lightweight platform for communities.
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
+- **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 - **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
-
+- **[aoc-2022](https://github.com/jay3332/aoc-2022)**: Advent of Code 2022 solutions in Rust
 
 ### I'm also working on:
 
