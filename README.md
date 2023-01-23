@@ -23,8 +23,9 @@
 - SQL
 - Web Development:
 	- HTML
-	- CSS, Sass
-	- React.js
+	- CSS, Sass, Tailwind 
+	- React
+	- Astro
 
 ## Currently working on:
 
