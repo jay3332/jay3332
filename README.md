@@ -20,12 +20,13 @@
 - C# (Unity)
 
 ### Other skills:
-- SQL
-- Web Development:
-	- HTML
-	- CSS, Sass, Tailwind 
-	- React
-	- Astro
+
+#### Data management
+- PostgreSQL
+
+#### Web Development
+- Frameworks: Vanilla, React, Solid, Astro
+- CSS Frameworks: CSS, Sass, Tailwind 
 
 ## Currently working on:
 
