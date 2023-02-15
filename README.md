@@ -35,7 +35,7 @@
 - **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 
-#### Unprioritized, but still maintained:
+#### Unprioritized, but still maintained or worth looking at:
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
