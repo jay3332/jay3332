@@ -11,7 +11,7 @@
 ### Commonly used:
 - Python
 - Rust
-- Javascript/TypeScript
+- JavaScript/TypeScript
 
 ### I also work with:
 - Kotlin
@@ -34,10 +34,10 @@
 
 - **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
+- **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
 
 #### Unprioritized, but still maintained or worth looking at:
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
-- **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 - **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
@@ -51,10 +51,11 @@
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
 - [Website/Portfolio](https://jay3332.pages.dev) (incomplete)
-- [Lambda Discord Bot](https://lambdabot.cf)
+- [Lambda Discord Bot](https://lambdabot.cf) (the domain expired)
 
 ## Contacts:
 - Discord: jay3332#8131 (User ID: 414556245178056706)
+  - Join the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
 
 ## Stats:
 
