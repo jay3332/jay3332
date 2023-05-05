@@ -9,8 +9,8 @@
 ## Skills
 
 ### Commonly used:
-- Python
 - Rust
+- Python
 - JavaScript/TypeScript
 
 ### I also work with:
