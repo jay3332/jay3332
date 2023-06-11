@@ -1,5 +1,5 @@
 <div align='center'><img
-	src='https://cdn.lambdabot.cf/uploads/jay3332_avatar2.png' height=100>
+	src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
 <h1 align='center'>
 	 jay3332
 </h1>
