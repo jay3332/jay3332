@@ -54,7 +54,7 @@
 - [Lambda Discord Bot](https://lambdabot.cf) (the domain expired)
 
 ## Contacts:
-- Discord: jay3332#8131 (User ID: 414556245178056706)
+- Discord: @jay3332 (User ID: 414556245178056706)
   - Join the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
 
 ## Stats:
