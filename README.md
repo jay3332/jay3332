@@ -55,7 +55,8 @@
 
 ## Contacts:
 - Discord: @jay3332 (User ID: 414556245178056706)
-  - Join the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
+  - I'm usually active in [Chatting At Its Finest](https://discord.gg/BjzrQZjFwk) 
+  - I occasionally check the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
 
 ## Stats:
 
