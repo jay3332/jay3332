@@ -50,13 +50,14 @@
 
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
-- [Website/Portfolio](https://jay3332.pages.dev) (incomplete)
-- [Lambda Discord Bot](https://lambdabot.cf) (the domain expired)
+- [Website/Portfolio](https://jay3332.tech) (incomplete)
+- [Lambda Discord Bot](https://lambda.jay3332.tech)
 
 ## Contacts:
 - Discord: @jay3332 (User ID: 414556245178056706)
   - I'm usually active in [Chatting At Its Finest](https://discord.gg/BjzrQZjFwk) 
   - I occasionally check the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
+- Email: me@jay3332.tech
 
 ## Stats:
 
