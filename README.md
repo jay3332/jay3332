@@ -30,27 +30,22 @@
 
 ## Currently working on:
 
-### Open source projects:
-
 - **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 - **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
 
-#### Unprioritized, but still maintained or worth looking at:
+### Unprioritized, but still maintained or worth looking at:
+
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 - **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
 - **[aoc-2022](https://github.com/jay3332/aoc-2022)**: Advent of Code 2022 solutions in Rust
 
-### I'm also working on:
-
-- **FTC PowerPlay**: Code that runs the robot for my private FTC team for the 2022-2023 FTC season, PowerPlay. Written in Kotlin.
-- **SpeechBot**: Experiemental text-to-speech transcription bot for Discord.
-
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
 - [Website/Portfolio](https://jay3332.tech) (incomplete)
+- [Coined Discord Bot](https://coined.jay3332.tech)
 - [Lambda Discord Bot](https://lambda.jay3332.tech)
 
 ## Contacts:
