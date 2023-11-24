@@ -2042,7 +2042,7 @@ Transition looks cool but performs horribly on slower devices</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 493k out of 49.1m repositories</span>
+                                    <span class="gh">ranked 493k out of 48.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 60 stars</div>
                             </div>
@@ -2196,7 +2196,7 @@ Transition looks cool but performs horribly on slower devices</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 08:12:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2023, 09:09:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
