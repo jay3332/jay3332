@@ -32,7 +32,12 @@
 
 - **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
-- **[Terbium](https://github.com/TerbiumLang/Terbium)**: A performant and elegant programming language made with Rust.
+- **[Terbium](https://github.com/terbium-lang/terbium)**: A performant and elegant programming language made with Rust.
+
+### Advent of Code �
+
+Advent of Code solutions in Rust:
+[**2023**](https://github.com/jay3332/aoc-2023) | [2022](https://github.com/jay3332/aoc-2022)
 
 ### Unprioritized, but still maintained or worth looking at:
 
@@ -40,7 +45,6 @@
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
 - **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 - **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
-- **[aoc-2022](https://github.com/jay3332/aoc-2022)**: Advent of Code 2022 solutions in Rust
 
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
