@@ -34,7 +34,7 @@
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
 - **[Terbium](https://github.com/terbium-lang/terbium)**: A performant and elegant programming language made with Rust.
 
-### Advent of Code �
+### Advent of Code 🎄
 
 Advent of Code solutions in Rust:
 [**2023**](https://github.com/jay3332/aoc-2023) | [2022](https://github.com/jay3332/aoc-2022)
