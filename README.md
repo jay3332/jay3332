@@ -3,30 +3,27 @@
 <h1 align='center'>
 	 jay3332
 </h1>
-<p><sup>Indeed the GitHub profile of jay3332</sup></p>
+<img src="https://skillicons.dev/icons?i=rust,python,ts,kotlin,cpp,postgres,redis,rabbitmq,tauri,wasm,solid,astro,tailwind" />
 </div>
 
-## Skills
+## Stack
 
-### Commonly used:
+### Languages
 - Rust
 - Python
-- JavaScript/TypeScript
-
-### I also work with:
-- Kotlin
-- Java
+- TypeScript/JavaScript
+- Kotlin/JVM
 - C/C++
-- C# (Unity)
 
-### Other skills:
-
-#### Data management
+### Data Management
 - PostgreSQL
+- Redis
+- RabbitMQ
 
-#### Web Development
-- Frameworks: Vanilla, React, Solid, Astro
-- CSS Frameworks: CSS, Sass, Tailwind 
+### Web Development
+- Frameworks: Vanilla, Solid, React, Astro
+- CSS Frameworks: CSS, Sass, Tailwind
+- Native: Tauri, WebAssembly
 
 ## Currently working on:
 
@@ -53,10 +50,8 @@ Advent of Code solutions in Rust:
 - [Lambda Discord Bot](https://lambda.jay3332.tech)
 
 ## Contacts:
-- Discord: @jay3332 (User ID: 414556245178056706)
-  - I'm usually active in [Chatting At Its Finest](https://discord.gg/BjzrQZjFwk) 
-  - I occasionally check the [jay3332 Help Desk](https://discord.gg/FqtZ6akWpd)
 - Email: me@jay3332.tech
+- Discord: @jay3332
 
 ## Stats:
 
