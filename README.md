@@ -46,8 +46,6 @@ Advent of Code solutions in Rust:
 ## Quick Links:
 - [Repositories](https://github.com/jay3332?tab=repositories)
 - [Website/Portfolio](https://jay3332.tech) (incomplete)
-- [Coined Discord Bot](https://coined.jay3332.tech)
-- [Lambda Discord Bot](https://lambda.jay3332.tech)
 
 ## Contacts:
 - Email: me@jay3332.tech
