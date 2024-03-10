@@ -51,21 +51,6 @@ Advent of Code solutions in Rust:
 - Email: me@jay3332.tech
 - Discord: @jay3332
 
-## Stats:
-
-### Visitors
-![Count](https://profile-counter.glitch.me/jay3332/count.svg)
-
-</span>
-
-<span float="center" height=200>
-  <h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jay3332&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
-  <h3>Most used languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay3332&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
-</span>
-
----
-
-### Auto-generated Metrics:
-![Metrics](https://github.com/jay3332/jay3332/blob/main/github-metrics.svg)
+<div align="center" height=200>
+<img src="https://github-readme-stats.vercel.app/api?username=jay3332&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=22272e" />
+</div>
