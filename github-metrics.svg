@@ -2069,7 +2069,7 @@ Translate-URL: https://i18n.adapt.chat/projects/adapt/webclient/zh_Hans/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 460k out of 213m repositories</span>
+                                    <span class="gh">ranked 460k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 74 stars</div>
                             </div>
@@ -2223,7 +2223,7 @@ Translate-URL: https://i18n.adapt.chat/projects/adapt/webclient/zh_Hans/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2024, 09:14:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2024, 10:10:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
