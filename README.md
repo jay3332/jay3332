@@ -34,7 +34,7 @@
 ### Advent of Code 🎄
 
 Advent of Code solutions in Rust:
-[**2023**](https://github.com/jay3332/aoc-2023) | [2022](https://github.com/jay3332/aoc-2022)
+[**2024**](https://github.com/jay3332/aoc-2024) | [2023](https://github.com/jay3332/aoc-2023) | [2022](https://github.com/jay3332/aoc-2022)
 
 ### Unprioritized, but still maintained or worth looking at:
 
