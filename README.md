@@ -3,7 +3,7 @@
 <h1 align='center'>
 	 <a href="//jay3332.tech">jay3332</a>
 </h1>
-<img src="https://skillicons.dev/icons?i=rust,python,ts,kotlin,cpp,postgres,redis,rabbitmq,tauri,wasm,solidjs,astro,tailwind" />
+<img src="https://skillicons.dev/icons?i=rust,python,ts,kotlin,cpp,postgres,redis,rabbitmq,tauri,wasm,solidjs,astro,tailwind,latex,matlab" />
 </div>
 
 ## Stack
