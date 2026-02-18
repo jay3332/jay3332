@@ -1,14 +1,16 @@
 <div align='center'>
 	<img src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
-	<div>
-	<a href="mailto:me@jay3332.tech">
-	    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white"/></a>
-	<a href="https://linkedin.com/in/jay3332">
-	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	</div>
 	<h1 align='center'>
 		<a href="//jay3332.tech">Jaysen Tsao</a>
 	</h1>
+	<div>
+		<a href="mailto:me@jay3332.tech">
+	    	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white"/>
+		</a>
+		<a href="https://linkedin.com/in/jay3332">
+	    	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+		</a>
+	</div>
 	<p align='center'>Interested in full-stack and embedded software development</p>
 	<img src="https://skillicons.dev/icons?i=rust,python,ts,cpp,c,kotlin,postgres,redis,rabbitmq,tauri,wasm,astro,solidjs,react,nextjs,tailwind,docker,cloudflare,latex,matlab,opencv,arduino&perline=11" />
 </div>
