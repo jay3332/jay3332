@@ -1,6 +1,5 @@
 <div align='center'>
 	<img src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
-	<br><br>
 	<div>
 	<a href="mailto:me@jay3332.tech">
 	    <img src="https://img.shields.io/badge/Email-Contact%20?logo=gmail&logoColor=white&color=red"/></a>
@@ -13,7 +12,6 @@
 	<p align='center'>Interested in full-stack and embedded software development</p>
 	<img src="https://skillicons.dev/icons?i=rust,python,ts,cpp,c,kotlin,postgres,redis,rabbitmq,tauri,wasm,astro,solidjs,react,nextjs,tailwind,docker,cloudflare,latex,matlab,opencv,arduino&perline=11" />
 </div>
-<hr />
 
 ## Stack
 
