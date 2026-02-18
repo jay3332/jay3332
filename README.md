@@ -11,6 +11,7 @@
 	    	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 		</a>
 	</div>
+	<br><br>
 	<p align='center'>Interested in full-stack and embedded software development</p>
 	<img src="https://skillicons.dev/icons?i=rust,python,ts,cpp,c,kotlin,postgres,redis,rabbitmq,tauri,wasm,astro,solidjs,react,nextjs,tailwind,docker,cloudflare,latex,matlab,opencv,arduino&perline=11" />
 </div>
