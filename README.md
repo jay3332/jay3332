@@ -1,10 +1,19 @@
-<div align='center'><img
-	src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
-<h1 align='center'>
-	 <a href="//jay3332.tech">Jaysen Tsao</a>
-</h1>
-<img src="https://skillicons.dev/icons?i=rust,python,ts,kotlin,cpp,postgres,redis,rabbitmq,tauri,wasm,solidjs,astro,tailwind,latex,matlab" />
+<div align='center'>
+	<img src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
+	<br><br>
+	<div>
+	<a href="mailto:me@jay3332.tech">
+	    <img src="https://img.shields.io/badge/Email-Contact%20?logo=gmail&logoColor=white&color=red"/></a>
+	<a href="https://linkedin.com/in/jay3332">
+	    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+	</div>
+	<h1 align='center'>
+		<a href="//jay3332.tech">Jaysen Tsao</a>
+	</h1>
+	<p align='center'>Interested in full-stack and embedded software development</p>
+	<img src="https://skillicons.dev/icons?i=rust,python,ts,cpp,c,kotlin,postgres,redis,rabbitmq,tauri,wasm,astro,solidjs,react,nextjs,tailwind,docker,cloudflare,latex,matlab,opencv,arduino&perline=11" />
 </div>
+<hr />
 
 ## Stack
 
@@ -40,7 +49,6 @@ Advent of Code solutions:
 
 - **[Turbine](https://github.com/jay3332/Turbine)**: A modern, flexible, and open source twist to classic pastebin sites.
 - **[tmt](https://github.com/jay3332/tmt)**: Cross-platform monitoring and management tool for your system's thermals.
-- **[magmatic](https://github.com/jay3332/magmatic)**: An elegant Lavalink wrapper for discord.py encouraging good design.
 - **[pilmoji](https://github.com/jay3332/pilmoji)**: A fast and reliable emoji renderer for PIL.
 
 ## Quick Links:
@@ -50,7 +58,3 @@ Advent of Code solutions:
 ## Contacts:
 - Email: me@jay3332.tech
 - Discord: @jay3332
-
-<div align="center" height=200>
-<img src="https://github-readme-stats.vercel.app/api?username=jay3332&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=22272e" />
-</div>
