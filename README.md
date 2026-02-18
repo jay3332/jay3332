@@ -2,9 +2,9 @@
 	<img src='https://github.com/jay3332/jay3332/blob/main/jay3332_circle.png?raw=true' height=100>
 	<div>
 	<a href="mailto:me@jay3332.tech">
-	    <img src="https://img.shields.io/badge/Email-Contact%20?logo=gmail&logoColor=white&color=red"/></a>
+	    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white"/></a>
 	<a href="https://linkedin.com/in/jay3332">
-	    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	</div>
 	<h1 align='center'>
 		<a href="//jay3332.tech">Jaysen Tsao</a>
