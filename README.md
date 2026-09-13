@@ -42,6 +42,7 @@
 
 - **[Adapt](https://github.com/AdaptChat)**: A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 - **[ril](https://github.com/jay3332/ril)**: A high-level Rust crate for easy image processing.
+- **[FlashTeX](https://github.com/flash-tex/flashtex)**: A rewrite of the (La)TeX engine in Rust.
 - **[Terbium](https://github.com/terbium-lang/terbium)**: A performant and elegant programming language made with Rust.
 
 ### Advent of Code 🎄
